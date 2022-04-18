@@ -14,7 +14,7 @@ topFrame=Frame(
     width=480,
     height=640
     )
-
+topFrame.place(x=0,y=0)
 
 
 
