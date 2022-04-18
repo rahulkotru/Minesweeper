@@ -12,7 +12,7 @@ topFrame=Frame(
     root,
     bg="white",
     width=480,
-    height=640
+    height=64
     )
 topFrame.place(x=0,y=0)
 
