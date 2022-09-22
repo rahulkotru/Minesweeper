@@ -17,6 +17,6 @@ topFrame=Frame(
 topFrame.place(x=0,y=0)
 
 
-12345
+123456
 
 root.mainloop()
