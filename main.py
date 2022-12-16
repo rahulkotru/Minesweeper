@@ -20,4 +20,3 @@ topFrame.place(x=0,y=0)
 
 
 root.mainloop()
-123456789
